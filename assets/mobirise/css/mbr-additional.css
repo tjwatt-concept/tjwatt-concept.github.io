@@ -704,28 +704,8 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-rLSuAxBOOL {
-  background: #ffffff;
-}
-.cid-rLSuAxBOOL .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-rLSuAxBOOL .mbr-figure {
-  margin: 0 auto;
-}
-.cid-rLSuAxBOOL figcaption {
-  position: relative;
-}
-.cid-rLSuAxBOOL figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rLSuAxBOOL .image-block {
-    width: 100% !important;
-  }
+.cid-rLXrcsPpFS {
+  background-image: url("../../../assets/images/56-squam-c.jpg");
 }
 .cid-rIXUpJjIlF .navbar {
   background: #80873c;
